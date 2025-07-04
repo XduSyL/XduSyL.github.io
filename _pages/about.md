@@ -40,8 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 ">
   [CVPR2025]
 </span>
-  [CVPR2025]
-</span>
+
 
 **Shaoyu Liu**, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xin Meng, Xiangyang Ji, Ming Li
 
@@ -54,11 +53,11 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎖 Honors and Awards
 - *2024.09* 🎉🎉 Received the Qiyuan National Lab Academic Scholarship 
 
-<div>
+
 # 💬 Invited Talks
 - *2024.03* , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-<div>
+
 
 # 💻 Internships
 - *2024.03 - 2024.08*, Algorithm Intern at Zhizi Xiyuan, Shanghai, China.
