@@ -31,9 +31,9 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/EventGPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EventGPT: Event Stream Understanding with Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_EventGPT_Event_Stream_Understanding_with_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf)
+[EventGPT: Event Stream Understanding with Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_EventGPT_Event_Stream_Understanding_with_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf) **CVPR2025**
 
-**Shaoyu Liu**, Jianing Li, Guanghui Zhao*, Yunjian Zhang, Xin Meng, Xiangyang Ji* & Ming Li*
+**Shaoyu Liu**, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xin Meng, Xiangyang Ji, Ming Li
 
 [**Project Page**](https://xdusyl.github.io/eventgpt.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The first LLM tailored for event streams, enabling precise temporal reasoning and natural language understanding from asynchronous visual signals.. 
