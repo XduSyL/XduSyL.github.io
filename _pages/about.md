@@ -23,8 +23,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Sumit one paper to NeurIPS2025. 
-- *2025.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Submitted a paper to [**NeurIPS2025**]. 
+- *2025.02*: &nbsp;🎉🎉 One Paper accepted by [**CVPR2025**].
+- *2024.11*: &nbsp;🎉🎉 [**EventGPT**](https://xdusyl.github.io/eventgpt.github.io/) Project Page is Now Live!. 
+- *2024.11*: &nbsp;🎉🎉 Submitted a paper to [**CVPR2025**]. 
 
 # 📝 Publications 
 
@@ -33,9 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [EventGPT: Event Stream Understanding with Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_EventGPT_Event_Stream_Understanding_with_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf) <span style="
   font-weight: bold;
-  background: linear-gradient(90deg, #ff6ec4, #7873f5, #4ade80);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #4b6cb7;
   font-size: 1.2em;
 ">
   [CVPR2025]
