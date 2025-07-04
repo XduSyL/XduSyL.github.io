@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Shaoyu Liu(刘少禹)"
-description              : "I am a PhD student at Xidian University, and my research interests include multimodal large language models, event cameras, and related areas. "
-repository               : "shaoyuliu.github.io"
+description              : "I am a PhD student at Xidian University \n interests: multimodal large language models, event cameras, and related areas. "
+repository               : "XduSyL.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
