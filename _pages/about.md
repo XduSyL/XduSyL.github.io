@@ -23,10 +23,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Submitted a paper to [**NeurIPS2025**]. 
+- *2025.05*: &nbsp; Submitted a paper to [**NeurIPS2025**]. 
 - *2025.02*: &nbsp;🎉🎉 One Paper accepted by [**CVPR2025**].
-- *2024.11*: &nbsp;🎉🎉 [**EventGPT**](https://xdusyl.github.io/eventgpt.github.io/) Project Page is Now Live!. 
-- *2024.11*: &nbsp;🎉🎉 Submitted a paper to [**CVPR2025**]. 
+- *2024.11*: &nbsp; [**EventGPT**](https://xdusyl.github.io/eventgpt.github.io/) Project Page is Now Live!. 
+- *2024.11*: &nbsp; Submitted a paper to [**CVPR2025**]. 
 
 # 📝 Publications 
 
