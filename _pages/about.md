@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is **Shaoyu Liu**, and I am currently a Ph.D. candidate jointly trained by **Xidian University** and the **Qiyuan National Laboratory**, with an expected graduation year of 2027. My advisors are Professor **Guanghui Zhao** (Xidian University) and Professor **Xiangyang Ji** (Qiyuan Lab, Tsinghua University). To date, I have published one first-author paper at **CVPR** and have another paper under review at **NeurIPS**. During my studies, I was awarded the Qiyuan National Laboratory Academic Scholarship.
+I developed the first event-based vision multimodal large language model, **EventGPT**, which has garnered widespread attention both domestically and internationally (including recognition from the Robotics and Perception Group led by **Davide Scaramuzza** at the University of Zurich, as well as Arizona State University, among others). It was featured in a dedicated article titled **"EventGPT: Giving AI the Power of Superhuman Vision"** by the U.S. developer platform PromptLayer.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My primary research interests include multimodal large language models, neuromorphic vision, robotics and perception, and related fields.ns"></a>).
 
 
 # 🔥 News
@@ -35,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [EventGPT: Event Stream Understanding with Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_EventGPT_Event_Stream_Understanding_with_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf) <span style="
   font-weight: bold;
-  color: #1a1a1a;
+  color: #8B0000;
   font-size: 1.2em;
 ">
   [CVPR2025]
