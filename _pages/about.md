@@ -46,10 +46,10 @@ My primary research interests include **multimodal large language models**, **ne
 </span>
 
 
-**Shaoyu Liu**, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xiangyang Ji
+**Shaoyu Liu**, Jianing Li, Guanghui Zhao, Yunjian Zhang, XinMeng, Xiangyang Ji, Ming Li
 
-[**Project Page**](https://xdusyl.github.io/eventbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The comprehensive benchmark for event streams, enabling structured evaluation of understanding, recognition, and spatial reasoning.
+[**Project Page**](https://xdusyl.github.io/eventgpt.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The first LLM tailored for event streams, enabling precise temporal reasoning and natural language understanding from asynchronous visual signals.
 </div>
 </div>
 
@@ -63,6 +63,13 @@ My primary research interests include **multimodal large language models**, **ne
 ">
   [ArXiv] Submit to CVPR2026
 </span>
+
+**Shaoyu Liu**, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xiangyang Ji
+
+[**Project Page**](https://xdusyl.github.io/eventbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The comprehensive benchmark for event streams, enabling structured evaluation of understanding, recognition, and spatial reasoning.
+</div>
+</div>
 
 </div>
 </div>
