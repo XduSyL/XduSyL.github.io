@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is **Shaoyu Liu**, and I am currently a Ph.D. candidate jointly trained by **Xidian University** and the **Qiyuan National Laboratory**, with an expected graduation year of 2027. My advisors are Professor **Guanghui Zhao** (Xidian University) and Professor **Xiangyang Ji** (Qiyuan Lab, Tsinghua University). To date, I have published one first-author paper at **CVPR** and have another papers under review at **ICLR2026** and **CVPR2026**. During my studies, I was awarded the Qiyuan National Laboratory Academic Scholarship.
+My name is **Shaoyu Liu**, and I am currently a Ph.D. candidate jointly trained by **Xidian University** and the **Qiyuan National Laboratory**, with an expected graduation year of 2027. My advisors are Professor **Guanghui Zhao** (Xidian University) and Professor **Xiangyang Ji** (Qiyuan Lab, Tsinghua University). To date, I have published one first-author paper at **CVPR2025** and have another papers under review at **ICLR2026** and **CVPR2026**. During my studies, I was awarded the Qiyuan National Laboratory Academic Scholarship.
 I developed the first event-based vision multimodal large language model, **EventGPT**, which has garnered widespread attention both domestically and internationally (including recognition from the Robotics and Perception Group led by **Davide Scaramuzza** at the University of Zurich, as well as Arizona State University, among others). It was featured in a dedicated article titled **"EventGPT: Giving AI the Power of Superhuman Vision"** by the U.S. developer platform PromptLayer.
 
 My primary research interests include **multimodal large language models**, **neuromorphic vision**, **robotics and perception**, and related fields.
@@ -68,9 +68,6 @@ My primary research interests include **multimodal large language models**, **ne
 
 [**Project Page**](https://xdusyl.github.io/eventbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The comprehensive benchmark for event streams, enabling structured evaluation of understanding, recognition, and spatial reasoning.
-</div>
-</div>
-
 </div>
 </div>
 
