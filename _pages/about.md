@@ -24,14 +24,14 @@ My primary research interests include **multimodal large language models**, **ne
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One Paper accepted by [**ICLR'26**].
+- *2026.01*: &nbsp;🎉🎉 One Paper accepted by [**ICLR2026**].
 - *2025.11*: &nbsp; [**EventBench**](https://xdusyl.github.io/eventbench.github.io/) Project Page is Now Live!. 
-- *2025.11*: &nbsp; Submitted a paper to [**CVPR'26**].
-- *2025.09*: &nbsp; Submitted a paper to [**ICLR'26**].
-- *2025.05*: &nbsp; Submitted a paper to [**NeurIPS'25**].
-- *2025.02*: &nbsp;🎉🎉 One Paper accepted by [**CVPR'25**].
+- *2025.11*: &nbsp; Submitted a paper to [**CVPR2026**].
+- *2025.09*: &nbsp; Submitted a paper to [**ICLR2026**].
+- *2025.05*: &nbsp; Submitted a paper to [**NeurIPS2025**].
+- *2025.02*: &nbsp;🎉🎉 One Paper accepted by [**CVPR2025**].
 - *2024.11*: &nbsp; [**EventGPT**](https://xdusyl.github.io/eventgpt.github.io/) Project Page is Now Live!. 
-- *2024.11*: &nbsp; Submitted a paper to [**CVPR'25**]. 
+- *2024.11*: &nbsp; Submitted a paper to [**CVPR2025**]. 
 
 # 📝 Publications 
 
