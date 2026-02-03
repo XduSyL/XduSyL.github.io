@@ -24,13 +24,14 @@ My primary research interests include **multimodal large language models**, **ne
 
 
 # 🔥 News
-- *2024.11*: &nbsp; [**EventBench**](https://xdusyl.github.io/eventbench.github.io/) Project Page is Now Live!. 
-- *2025.11*: &nbsp; Submitted a paper to [**CVPR2026**].
-- *2025.09*: &nbsp; Submitted a paper to [**ICLR2026**].
-- *2025.05*: &nbsp; Submitted a paper to [**NeurIPS2025**].
-- *2025.02*: &nbsp;🎉🎉 One Paper accepted by [**CVPR2025**].
+- *2026.01*: &nbsp;🎉🎉 One Paper accepted by [**ICLR'26**].
+- *2025.11*: &nbsp; [**EventBench**](https://xdusyl.github.io/eventbench.github.io/) Project Page is Now Live!. 
+- *2025.11*: &nbsp; Submitted a paper to [**CVPR'26**].
+- *2025.09*: &nbsp; Submitted a paper to [**ICLR'26**].
+- *2025.05*: &nbsp; Submitted a paper to [**NeurIPS'25**].
+- *2025.02*: &nbsp;🎉🎉 One Paper accepted by [**CVPR'25**].
 - *2024.11*: &nbsp; [**EventGPT**](https://xdusyl.github.io/eventgpt.github.io/) Project Page is Now Live!. 
-- *2024.11*: &nbsp; Submitted a paper to [**CVPR2025**]. 
+- *2024.11*: &nbsp; Submitted a paper to [**CVPR'25**]. 
 
 # 📝 Publications 
 
@@ -53,8 +54,29 @@ My primary research interests include **multimodal large language models**, **ne
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiV</div><img src='images/EventBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiV</div><img src='images/EventGPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+[EventFlash: Towards Efficient MLLMs For Event-Based Vision](https://openreview.net/pdf?id=QuvGqzLwf6) <span style="
+  font-weight: bold;
+  color: #8B0000;
+  font-size: 1.2em;
+">
+  [ICLR2026]
+</span>
+
+
+**Shaoyu Liu**, Jianing Li, Guanghui Zhao, Yunjian Zhang, Wen Jiang, Ming Li, Xiangyang Ji
+
+<!-- [**Project Page**](https://xdusyl.github.io/eventgpt.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- The efficient LLM tailored for event streams, enabling efficient temporal reasoning and dynamic scene understanding from asynchronous event stream.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/EventFlash.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
 
 [EventBench: Towards Comprehensive Benchmarking of Event-based MLLMs](https://arxiv.org/abs/2511.18448) <span style="
   font-weight: bold;
