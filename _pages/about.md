@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is **Shaoyu Liu**, and I am currently a Ph.D. candidate jointly trained by **Xidian University** and the **Qiyuan National Laboratory**, with an expected graduation year of 2027. My advisors are Professor **Guanghui Zhao** (Xidian University) and Professor **Xiangyang Ji** (Qiyuan Lab, Tsinghua University). To date, I have published one first-author paper at **CVPR2025** and have another papers under review at **ICLR2026** and **CVPR2026**. During my studies, I was awarded the Qiyuan National Laboratory Academic Scholarship.
+My name is **Shaoyu Liu**, and I am currently a Ph.D. candidate jointly trained by **Xidian University** and the **Qiyuan National Laboratory**, with an expected graduation year of 2027. My advisors are Professor **Guanghui Zhao** (Xidian University) and Professor **Xiangyang Ji** (Qiyuan Lab, Tsinghua University). To date, I have published one first-author paper at **CVPR2025** and **ICLR2026** and have another papers under review at **CVPR2026**. During my studies, I was awarded the Qiyuan National Laboratory Academic Scholarship.
 I developed the first event-based vision multimodal large language model, **EventGPT**, which has garnered widespread attention both domestically and internationally (including recognition from the Robotics and Perception Group led by **Davide Scaramuzza** at the University of Zurich, as well as Arizona State University, among others). It was featured in a dedicated article titled **"EventGPT: Giving AI the Power of Superhuman Vision"** by the U.S. developer platform PromptLayer.
 
 My primary research interests include **multimodal large language models**, **neuromorphic vision**, **robotics and perception**, and related fields.
@@ -54,7 +54,7 @@ My primary research interests include **multimodal large language models**, **ne
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiV</div><img src='images/EventGPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2026</div><img src='images/EventFlash.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EventFlash: Towards Efficient MLLMs For Event-Based Vision](https://openreview.net/pdf?id=QuvGqzLwf6) <span style="
@@ -73,7 +73,7 @@ My primary research interests include **multimodal large language models**, **ne
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/EventFlash.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiV</div><img src='images/EventBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
