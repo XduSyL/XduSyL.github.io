@@ -103,6 +103,7 @@ My primary research interests include **multimodal large language models**, **ne
 <span style="color:#b52b27"><strong>Conference Reviewer</strong></span>
 
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:#b52b27">CVPR</span>)
+- European Conference on Computer Vision (<span style="color:#b52b27">ECCV</span>)
 - International Conference on Learning Representations (<span style="color:#b52b27">ICLR</span>)
 
 
