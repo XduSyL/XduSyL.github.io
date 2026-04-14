@@ -97,6 +97,47 @@ I developed the first event-based vision multimodal large language model, **Even
 </div>
 
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiV</div><img src='images/longfly.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration](https://arxiv.org/pdf/2512.22010) <span style="
+  font-weight: bold;
+  color: #8B0000;
+  font-size: 1.2em;
+">
+  [ArXiv] Submit to TCSVT
+</span>
+
+Wen Jiang, Li Wang, Kangyao Huang, Wei Fan, Jinyuan Liu, **Shaoyu Liu**, Hongwei Duan, Bin Xu, and Xiangyang Ji
+
+<!-- [**Project Page**](https://xdusyl.github.io/eventbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- LongFly integrates spatiotemporal context to enable long-horizon vision-and-language navigation for UAVs.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiV</div><img src='images/spatialfly.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpatialFly: Geometry-Guided Representation Alignment for UAV Vision-and-Language Navigation in Urban Environments](https://arxiv.org/pdf/2603.21046) <span style="
+  font-weight: bold;
+  color: #8B0000;
+  font-size: 1.2em;
+">
+  [ArXiv] Submit to TCSVT
+</span>
+
+Wen Jiang, Kangyao Huang, Li Wang, Wang Xu, Wei Fan, Jinyuan Liu, **Shaoyu Liu**, Hanfang Liang, Hongwei Duan, Bin Xu, and Xiangyang Ji
+
+<!-- [**Project Page**](https://xdusyl.github.io/eventbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- SpatialFly uses geometry-guided feature alignment to improve UAV vision-and-language navigation in urban environments.
+</div>
+</div>
+
+
+
 # 🎖 Honors and Awards
 - *2025.09* 🎉🎉 Received the Qiyuan National Lab Academic Scholarship
 - *2024.09* 🎉🎉 Received the Qiyuan National Lab Academic Scholarship
