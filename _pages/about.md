@@ -25,6 +25,7 @@ I developed the first event-based vision multimodal large language model, **Even
 - *2026.04*: &nbsp; Our challenge **"Event-Based Multimodal Vision: Imaging, Perception, and Understanding"** has been accepted to an **ECCV**.
 - *2026.04*: &nbsp; Attended the Outstanding PhD Dissertation Funding Defense at Xidian University.
 - *2026.04*: &nbsp; Submitted a paper to [**ACM MM 2026**].
+- *2026.03*: &nbsp; Submitted a paper to [**PR**].
 - *2026.02*: &nbsp; Submitted a paper to [**TCSVT**].
 - *2026.01*: &nbsp;🎉🎉 One Paper accepted by [**ICLR2026**].
 - *2025.12*: &nbsp; Submitted a paper to **TCSVT**.
@@ -127,7 +128,7 @@ Wen Jiang, Li Wang, Kangyao Huang, Wei Fan, Jinyuan Liu, **Shaoyu Liu**, Hongwei
   color: #8B0000;
   font-size: 1.2em;
 ">
-  Submit to TCSVT
+  Submit to PR
 </span>
 
 Wen Jiang, Kangyao Huang, Li Wang, Wang Xu, Wei Fan, Jinyuan Liu, **Shaoyu Liu**, Hanfang Liang, Hongwei Duan, Bin Xu, and Xiangyang Ji
