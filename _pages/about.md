@@ -38,6 +38,8 @@ I developed the first event-based vision multimodal large language model, **Even
 
 # 📝 Publications 
 
+## 🔷 Event-based Vision MLLMs
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/EventGPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,6 +100,7 @@ I developed the first event-based vision multimodal large language model, **Even
 
 
 
+## 🚁 UAV Vision-and-Language Navigation (VLN)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiV</div><img src='images/longfly.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,7 +110,7 @@ I developed the first event-based vision multimodal large language model, **Even
   color: #8B0000;
   font-size: 1.2em;
 ">
-  [ArXiv] Submit to TCSVT
+  Submit to TCSVT
 </span>
 
 Wen Jiang, Li Wang, Kangyao Huang, Wei Fan, Jinyuan Liu, **Shaoyu Liu**, Hongwei Duan, Bin Xu, and Xiangyang Ji
@@ -126,7 +129,7 @@ Wen Jiang, Li Wang, Kangyao Huang, Wei Fan, Jinyuan Liu, **Shaoyu Liu**, Hongwei
   color: #8B0000;
   font-size: 1.2em;
 ">
-  [ArXiv] Submit to TCSVT
+  Submit to TCSVT
 </span>
 
 Wen Jiang, Kangyao Huang, Li Wang, Wang Xu, Wei Fan, Jinyuan Liu, **Shaoyu Liu**, Hanfang Liang, Hongwei Duan, Bin Xu, and Xiangyang Ji
