@@ -24,6 +24,8 @@ My primary research interests include **multimodal large language models**, **ne
 
 
 # 🔥 News
+- *2026.04*: &nbsp; Our challenge **"Event-Based Multimodal Vision: Imaging, Perception, and Understanding"** has been accepted to an **ECCV Workshop**.
+- *2026.04*: &nbsp; Attended the Outstanding PhD Dissertation Funding Defense at Xidian University.
 - *2026.04*: &nbsp; Submitted a paper to [**ACM MM 2026**].
 - *2026.02*: &nbsp; Submitted a paper to [**TCSVT**].
 - *2026.01*: &nbsp;🎉🎉 One Paper accepted by [**ICLR2026**].
