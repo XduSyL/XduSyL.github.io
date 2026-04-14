@@ -26,7 +26,7 @@ I developed the first event-based vision multimodal large language model, **Even
 - *2026.04*: &nbsp; Attended the Outstanding PhD Dissertation Funding Defense at Xidian University.
 - *2026.04*: &nbsp; Submitted a paper to [**ACM MM 2026**].
 - *2026.03*: &nbsp; Submitted a paper to [**PR**].
-- *2026.02*: &nbsp; Submitted a paper to [**TCSVT**].
+- *2026.01*: &nbsp; Submitted a paper to [**TCSVT**].
 - *2026.01*: &nbsp;🎉🎉 One Paper accepted by [**ICLR2026**].
 - *2025.12*: &nbsp; Submitted a paper to **TCSVT**.
 - *2025.11*: &nbsp; [**EventBench**](https://xdusyl.github.io/eventbench.github.io/) Project Page is Now Live!. 
