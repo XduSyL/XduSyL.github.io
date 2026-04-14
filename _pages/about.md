@@ -24,7 +24,10 @@ My primary research interests include **multimodal large language models**, **ne
 
 
 # 🔥 News
+- *2026.04*: &nbsp; Submitted a paper to [**ACM MM 2026**].
+- *2026.02*: &nbsp; Submitted a paper to [**TCSVT**].
 - *2026.01*: &nbsp;🎉🎉 One Paper accepted by [**ICLR2026**].
+- *2025.12*: &nbsp; Submitted a paper to **TCSVT**.
 - *2025.11*: &nbsp; [**EventBench**](https://xdusyl.github.io/eventbench.github.io/) Project Page is Now Live!. 
 - *2025.11*: &nbsp; Submitted a paper to [**CVPR2026**].
 - *2025.09*: &nbsp; Submitted a paper to [**ICLR2026**].
