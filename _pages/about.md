@@ -22,7 +22,7 @@ I developed the first event-based vision multimodal large language model, **Even
 
 
 # 🔥 News
-- *2026.04*: &nbsp;  🎉🎉 Our event-based multimodal vision challenge has been accepted to **ECCV**!
+- *2026.04*: &nbsp;  🎉🎉 Our event-based multimodal vision challenge has been accepted to **ECCV Workshop**!
 - *2026.04*: &nbsp;  🎉🎉 Attended the Outstanding PhD Dissertation Funding Defense at Xidian University.
 - *2026.04*: &nbsp; Submitted a paper to [**ACM MM 2026**].
 - *2026.03*: &nbsp; Submitted a paper to [**PR**].
