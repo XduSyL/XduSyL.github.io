@@ -22,8 +22,8 @@ I developed the first event-based vision multimodal large language model, **Even
 
 
 # 🔥 News
-- *2026.04*: &nbsp; Our challenge **"Event-Based Multimodal Vision: Imaging, Perception, and Understanding"** has been accepted to an **ECCV**.
-- *2026.04*: &nbsp; Attended the Outstanding PhD Dissertation Funding Defense at Xidian University.
+- *2026.04*: &nbsp;  🎉🎉 Our event-based multimodal vision challenge has been accepted to **ECCV**!
+- *2026.04*: &nbsp;  🎉🎉 Attended the Outstanding PhD Dissertation Funding Defense at Xidian University.
 - *2026.04*: &nbsp; Submitted a paper to [**ACM MM 2026**].
 - *2026.03*: &nbsp; Submitted a paper to [**PR**].
 - *2026.01*: &nbsp; Submitted a paper to [**TCSVT**].
@@ -34,7 +34,7 @@ I developed the first event-based vision multimodal large language model, **Even
 - *2025.09*: &nbsp; Submitted a paper to [**ICLR2026**].
 - *2025.05*: &nbsp; Submitted a paper to [**NeurIPS2025**].
 - *2025.02*: &nbsp;🎉🎉 One Paper accepted by [**CVPR2025**].
-- *2024.11*: &nbsp; [**EventGPT**](https://xdusyl.github.io/eventgpt.github.io/) Project Page is Now Live!. 
+- *2024.11*: &nbsp; [**EventGPT**](https://xdusyl.github.io/eventgpt.github.io/) Project Page is Now Live!
 - *2024.11*: &nbsp; Submitted a paper to [**CVPR2025**]. 
 
 # 📝 Publications 
