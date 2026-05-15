@@ -22,8 +22,9 @@ I developed the first event-based vision multimodal large language model, **Even
 
 
 # 🔥 News
-- *2026.04*: &nbsp;  🎉🎉 Our event-based multimodal vision challenge has been accepted to **ECCV Workshop**!
-- *2026.04*: &nbsp;  🎉🎉 Attended the Outstanding PhD Dissertation Funding Defense at Xidian University.
+- *2026.04*: &nbsp; Submitted a paper to [**NeurIPS 2026**].
+- *2026.04*: &nbsp; 🎉🎉 Received the Outstanding PhD Dissertation Funding at Xidian University.
+- *2026.04*: &nbsp; 🎉🎉 Our event-based multimodal vision challenge has been accepted to **ECCV Workshop**!
 - *2026.04*: &nbsp; Submitted a paper to [**ACM MM 2026**].
 - *2026.03*: &nbsp; Submitted a paper to [**PR**].
 - *2026.01*: &nbsp; Submitted a paper to [**TCSVT**].
@@ -141,6 +142,7 @@ Wen Jiang, Kangyao Huang, Li Wang, Wang Xu, Wei Fan, Jinyuan Liu, **Shaoyu Liu**
 
 
 # 🎖 Honors and Awards
+- *2026.04* 🎉🎉 Received the Outstanding PhD Dissertation Funding at Xidian University.
 - *2025.09* 🎉🎉 Received the Qiyuan National Lab Academic Scholarship
 - *2024.09* 🎉🎉 Received the Qiyuan National Lab Academic Scholarship
 
