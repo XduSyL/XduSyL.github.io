@@ -108,7 +108,13 @@ I developed the first event-based vision multimodal large language model, **Even
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/ExtraVAR.png' alt="ExtraVAR overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**ExtraVAR: Stage-Aware RoPE Remapping for Resolution Extrapolation in Visual Autoregressive Models** **[NeurIPS2026]**
+ExtraVAR: Stage-Aware RoPE Remapping for Resolution Extrapolation in Visual Autoregressive Models <span style="
+  font-weight: bold;
+  color: #8B0000;
+  font-size: 1.2em;
+">
+  [NeurIPS2026]
+</span>
 
 Feihong Yan, **Shaoyu Liu**, Haixuan Wang, Shuai Lu, Linfeng Zhang, Huiqi Li, Xiangyang Ji
 </div>
