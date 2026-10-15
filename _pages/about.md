@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is **Shaoyu Liu**, and I am currently a Ph.D. candidate jointly trained by **Xidian University** and the **Qiyuan National Laboratory**, with an expected graduation year of 2027. My advisors are Professor **Guanghui Zhao** (Xidian University) and Professor **Xiangyang Ji** (Qiyuan Lab, Tsinghua University). To date, I have published one first-author paper at **CVPR2025** and **ICLR2026** and have another papers under review at **CVPR2026**. During my studies, I was awarded the Qiyuan National Laboratory Academic Scholarship.
+My name is **Shaoyu Liu**, and I am currently a Ph.D. candidate jointly trained by **Xidian University** and the **Qiyuan National Laboratory**, with an expected graduation year of 2027. My advisors are Professor **Guanghui Zhao** (Xidian University) and Professor **Xiangyang Ji** (Qiyuan Lab, Tsinghua University). To date, I have published two first-author papers at **CVPR 2025** and **ICLR 2026**, and have several additional papers under review at top-tier venues. During my studies, I was awarded the Qiyuan National Laboratory Academic Scholarship.
 I developed the first event-based vision multimodal large language model, **EventGPT**, which has garnered widespread attention both domestically and internationally (including recognition from the Robotics and Perception Group led by **Davide Scaramuzza** at the University of Zurich, as well as Arizona State University, among others). It was featured in a dedicated article titled **"EventGPT: Giving AI the Power of Superhuman Vision"** by the U.S. developer platform PromptLayer. My primary research interests include **multimodal large language models**, **neuromorphic vision**, **robotics and perception**, and related fields.
 
 
 # 🔥 News
 - *2026.10*: &nbsp; Submitted a paper to [**ARR Oct**].
-- *2026.09*: &nbsp; one paper to [**NeurIPS 2026**].
+- *2026.09*: &nbsp; 🎉🎉 One paper accepted by [**NeurIPS 2026**].
 - *2026.09*: &nbsp; Submitted a paper to [**ICLR 2027**].
 - *2026.04*: &nbsp; Submitted a paper to [**NeurIPS 2026**].
 - *2026.04*: &nbsp; 🎉🎉 Received the Outstanding PhD Dissertation Funding at Xidian University.
@@ -104,11 +104,11 @@ I developed the first event-based vision multimodal large language model, **Even
 
 
 
-## ⚙️ 高效推理（AI Infra）
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ExtraVAR.png' alt="ExtraVAR overview" width="100%"></div></div>
+## ⚙️ Efficient Inference (AI Infra)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/ExtraVAR.png' alt="ExtraVAR overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**ExtraVAR: Stage-Aware RoPE Remapping for Resolution Extrapolation in Visual Autoregressive Models**
+**ExtraVAR: Stage-Aware RoPE Remapping for Resolution Extrapolation in Visual Autoregressive Models** **[NeurIPS2026]**
 
 Feihong Yan, **Shaoyu Liu**, Haixuan Wang, Shuai Lu, Linfeng Zhang, Huiqi Li, Xiangyang Ji
 </div>
