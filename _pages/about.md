@@ -101,6 +101,17 @@ I developed the first event-based vision multimodal large language model, **Even
 
 
 
+## ⚙️ 高效推理（AI Infra）
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ExtraVAR.png' alt="ExtraVAR overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ExtraVAR: Stage-Aware RoPE Remapping for Resolution Extrapolation in Visual Autoregressive Models**
+
+Feihong Yan, **Shaoyu Liu**, Haixuan Wang, Shuai Lu, Linfeng Zhang, Huiqi Li, Xiangyang Ji
+</div>
+</div>
+
+
 ## 🚁 UAV Vision-and-Language Navigation (VLN)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiV</div><img src='images/longfly.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
